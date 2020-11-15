@@ -1,0 +1,6 @@
+>>>pip freeze > requirements.txt
+
+## what serializers does?
+	packages and unpackages the data
+	it takes data ont the server and it serialises and give op in format read by other technologies
+		and on server side things when data is send to the server it packages it up so it can be read by existing server and save

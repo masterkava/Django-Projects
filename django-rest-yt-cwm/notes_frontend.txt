@@ -1,0 +1,13 @@
+##frontend
+>>>create-react-app gui
+	this will install bundle of packages as seen in tech with tim manually installed
+
+##frontend1
+>>>npm start
+
+#now let's grab the stuffs from the backend and display in the frontend
+
+
+##ant-design
+
+>>>npm install antd 

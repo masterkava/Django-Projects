@@ -1,0 +1,57 @@
+##Database models.py
+
+to create a table we do create a model instead.
+
+wrote python code it will interpret that python 
+code and automatically opearated that python code for us
+
+it is a layer of abstraction makes a lots of easier for 
+us to write database related stuff.
+
+Fat model and thin views 
+
+
+##serailizers.py
+it will take our model which has all the python related
+code, all the details of the data will be stored inside 
+the database
+
+it will convet them into the json response 
+keys -> string 
+value -> value
+
+
+
+
+
+django-react-twt
+
+>>>npm init -y
+creates the node module package json and all the
+other things we need for our frontend projects.
+
+>>>npm i webpack webpack-cli --save-dev
+
+>>>npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev 
+
+>>>npm i react react-dom --save-dev
+
+>>>npm install @material-ui/core
+
+>>>npm install @babel/plugin-proposal-class-properties 
+
+>>>npm install react-router-dom
+
+>>>npm install @material-ui/icons
+ 
+
+npm init -y
+npm i webpack webpack-cli --save-dev
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+npm i react react-dom --save-dev
+npm install @material-ui/core
+npm install @babel/plugin-proposal-class-properties
+npm install react-router-dom
+npm install @material-ui/icons
+
+

@@ -1,0 +1,18 @@
+#how website works
+
+#when requesting something it will go to the ip address and
+whatever is there it will show
+#now, front end part will ghow GUI
+#but backend part will give the complere idea about when 
+and what to display when configure something
+
+#so when request happens site will share it;s html,css and javascript
+#but which and when to send that will only told by backend part
+
+#tcpip
+#a way to send the data, basically a site
+
+#summary:#
+#HTML,CSS and JS code can be viewed by the user whereas django code is kept secretly at the server side#
+
+

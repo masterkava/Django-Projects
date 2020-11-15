@@ -1,0 +1,31 @@
+
+##backend
+>>>virtualemv env
+
+>>>env\Scripts\activate
+
+>>>
+
+
+##frontend
+>>>create-react-app gui
+	this will install bundle of packages as seen in tech with tim manually installed
+
+#first models.py creating a model
+#migrating - python manage.py makemigrations, migrate
+#admin.py 
+#creating the superuser
+	python manage.py createsuperuser
+#creating serializers.py
+	creating the models inside
+#creating views.py
+	creating the views class based views
+#creating urls.py and import views there create api's there
+
+
+
+##serializer
+#converting json to model
+
+
+##frontend1

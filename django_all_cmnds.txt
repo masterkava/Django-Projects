@@ -1,0 +1,41 @@
+#to install 
+python -m pip install django
+
+#to know version
+python -m django --version
+
+
+#django
+django-admin
+
+#here django-admin is utility or command i am giving argument that start project
+django-admin startproject <projectname>
+
+
+#manage.py
+##is a command line utility helps us to interact with django project.
+
+#outer mysite is a python pyckage 
+
+#setting.py
+##keeps high level settings
+
+#url.py
+##mapping the urls inside this, tells where what things will happen.
+
+#wsgi.py
+##webserver gateaway interface
+##when deploy level working happens
+##django creates framework not website, it just hosting the website
+
+
+
+#to run server
+python manage.py runserver
+
+
+
+
+
+
+
